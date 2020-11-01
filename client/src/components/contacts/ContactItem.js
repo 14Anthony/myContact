@@ -15,7 +15,7 @@ const ContactItem = ({ contact }) => {
             </h3>
             <ul className="list">
                 {email && (<li>
-                    <i></i>
+                    <i className="fas fa-envelope-open"></i>
                 </li>)}
 
             </ul>

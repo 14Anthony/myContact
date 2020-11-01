@@ -1,4 +1,5 @@
 import React, { Fragment, Row, Col, useContext } from 'react'
+import ContactItem from './ContactItem'
 
 import ContactContext from '../context/contact/contactContext';
 import ConstactState from '../context/contact/contactState';

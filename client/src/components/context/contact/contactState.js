@@ -1,6 +1,7 @@
 import React, { useReducer } from 'react';
 import ContactContext from './contactContext'
-import ContactContext from './contactReducer'
+import contactReducer from './contactReducer'
+import { } from '../types'
 
 const contactState = () => {
     return (
